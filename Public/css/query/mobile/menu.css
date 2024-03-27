@@ -1,0 +1,15 @@
+.bottom__mobile {
+  width: 100%;
+  height: 60px;
+  position: absolute;
+  bottom: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  .mobiletaga {
+    width: 23%;
+    height: 100%;
+    display: block;
+    background-color: aqua;
+  }
+}
